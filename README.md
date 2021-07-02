@@ -1,3 +1,3 @@
 # Mizuxe-Book-Theme
 
-![image](https://user-images.githubusercontent.com/22200025/122578805-8ad55880-d054-11eb-8004-09997ebcaed7.png)
+![image](https://user-images.githubusercontent.com/22200025/124300994-7b2f3700-db5f-11eb-8855-f6ed1f29ab2a.png)
